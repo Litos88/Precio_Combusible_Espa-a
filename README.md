@@ -1,7 +1,7 @@
 # Precio_Combustible_Spain
 Se pretende coger los precios del combustible en todas las estaciones de España mediante web scraping.
 
-En una primera etapa, planteamos coger los datos de las estaciones de servicio ubicadas en Barcelona, 
+En una primera etapa, planteamos coger los datos de las estaciones de servicio ubicadas en el municipio Barcelona, 
 dejando demostrado que se pueden obtener los datos de los combustibles actualizados diariamente. "Gasolineras_Barcelona.ipynb"
 
 En una segunda etapa, para la universidad se esta trabajando en hacer la consulta de todas las
