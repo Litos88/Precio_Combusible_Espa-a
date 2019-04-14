@@ -9,4 +9,4 @@ estaciones de servicio de toda España, datos que también disponemos en la pág
 mucho bastante más tiempo recolectarlos. "Gasolineras_Espanya.ipynb"
 
 Debido a que esta ultima consulta conlleva mucho tiempo. Se ha simplificado a conseguir los datos referentes
-a las estaciones de todos los municipios de la provincia de Barcelona. "Gasolinera_Barcelona_provincia.ipynb"
+a las estaciones de todos los municipios de la provincia de Barcelona. "Gasolinera_provincia_Barcelona.ipynb".
